@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/textutils/static/css/main.4904baba.css",
-    "main.js": "/textutils/static/js/main.6a47db7c.js",
-    "static/js/787.719ec76d.chunk.js": "/textutils/static/js/787.719ec76d.chunk.js",
-    "index.html": "/textutils/index.html",
-    "main.4904baba.css.map": "/textutils/static/css/main.4904baba.css.map",
-    "main.6a47db7c.js.map": "/textutils/static/js/main.6a47db7c.js.map",
-    "787.719ec76d.chunk.js.map": "/textutils/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/TextUtilsReact.github.io/static/css/main.f3486f3e.css",
+    "main.js": "/TextUtilsReact.github.io/static/js/main.8f968da6.js",
+    "static/js/787.719ec76d.chunk.js": "/TextUtilsReact.github.io/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextUtilsReact.github.io/index.html",
+    "main.f3486f3e.css.map": "/TextUtilsReact.github.io/static/css/main.f3486f3e.css.map",
+    "main.8f968da6.js.map": "/TextUtilsReact.github.io/static/js/main.8f968da6.js.map",
+    "787.719ec76d.chunk.js.map": "/TextUtilsReact.github.io/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4904baba.css",
-    "static/js/main.6a47db7c.js"
+    "static/css/main.f3486f3e.css",
+    "static/js/main.8f968da6.js"
   ]
 }
